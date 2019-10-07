@@ -97,8 +97,8 @@ Just to speed things up a bit, paste the following code into `index.html`:
 </body>
 </html>
 ```
-
-Refresh the page to see the changes.
+<!-- 
+Refresh the page to see the changes. -->
 
 Open the Google Developer Tools. Click on the "Elements" tab. Here we have the
 DOM representation of the HTML source the browser loaded. Use the "Elements"
